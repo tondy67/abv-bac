@@ -1,0 +1,8 @@
+###
+-cmd echo build client
+-main App
+-cp src
+-lib abv
+-D debug
+-neko build/neko/client.n
+

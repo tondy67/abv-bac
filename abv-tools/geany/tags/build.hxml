@@ -1,0 +1,4 @@
+-cmd echo Haxe tags for Geany
+-cmd echo Run: neko tags.n
+-main Tags
+-neko tags.n

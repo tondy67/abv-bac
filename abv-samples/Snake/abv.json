@@ -1,0 +1,32 @@
+{
+"#0" : "Valid json!",
+"#1" : "Obligatory fields: src,main,name,targets",
+		"pack" : "com.tondy.snake",
+		"name" : "Snake",
+		"main" : "App",
+		"version" : "0.0.1",
+		"author" : "tondy",
+		"web" : "http://tondy.com",
+		"desc" : "Classic Snake Game",
+		"src" : ["src"],
+		"libs" : [""],
+		"opt" : [""],
+		"targets" : ["flash","js","neko","cpp","java","android"],
+"#2" : "Updates per second ~ fps",
+		"ups" : 32,
+"#3" : "App width,height",
+		"width" : 768,
+"#4" : "5 = Int, 5.0 = Int, 5.1 = Float",
+		"height" : 480,
+"#5" : "Resource directory,assets etc",
+		"res" : "../res",
+		"resources" : [
+			"ui/default/gui.css",
+			"ui/default/gui.html",
+			"Snake.css",
+			"Rect.svg",
+			"haxe.svg",
+			"Snake.html"
+		]
+
+}

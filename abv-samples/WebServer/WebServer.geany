@@ -1,0 +1,61 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=true
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=WebServer
+base_path=/home/tondy/dev/abv-samples/WebServer
+description=
+file_patterns=*.hx,;*.css,;*.xml,;*.txt,;*.hxml;
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=3
+FILE_NAME_0=3107;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FWebServer%2Fsrc%2FAppWeb.hx;0;4
+FILE_NAME_1=6615;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fnet%2FTTServer.hx;0;4
+FILE_NAME_2=1861;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fnet%2FTServer.hx;0;4
+FILE_NAME_3=7241;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fnet%2Fweb%2FWServer.hx;0;4
+FILE_NAME_4=8038;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fnet%2Fweb%2FWT.hx;0;4
+FILE_NAME_5=404;JSON;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FWebServer%2Fabv.json;0;4
+FILE_NAME_6=3326;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fcpu%2FTPool.hx;0;4
+FILE_NAME_7=3628;Haxe;0;EUTF-8;1;1;0;%2Fusr%2Fshare%2Fhaxe%2Fstd%2Fjava%2F_std%2Fsys%2Fnet%2FSocket.hx;0;4
+FILE_NAME_8=2141;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fsys%2Fjava%2Fnet%2FSocket.hx;0;4
+FILE_NAME_9=372;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fsys%2Fjava%2Fnet%2FPoll.hx;0;4
+FILE_NAME_10=87;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FWebServer%2Fsrc%2FApp.hx;0;4
+FILE_NAME_11=1879;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FWebServer%2FBuild.hx;0;4
+
+[VTE]
+last_dir=/home/tondy/dev/hxtool
+
+[build-menu]
+HaxeFT_00_LB=_Compile
+HaxeFT_00_CM=./abv build cpp debug nocolor
+HaxeFT_00_WD=%p
+filetypes=Haxe;
+HaxeFT_01_LB=Build
+HaxeFT_01_CM=./abv build neko debug nocolor
+HaxeFT_01_WD=%p
+HaxeFT_02_LB=JAVA
+HaxeFT_02_CM=./abv build java debug nocolor
+HaxeFT_02_WD=%p
+NF_00_LB=ANDROID
+NF_00_CM=./abv build android debug nocolor
+NF_00_WD=%p
+
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true

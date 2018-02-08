@@ -1,0 +1,11 @@
+{
+  "name": "abv-tools",
+  "url": "https://github.com/tondy67/abv-tools",
+  "license": "BSD",
+  "tags": ["gui", "web", "shell"],
+  "description": "abv tools",
+  "version": "0.0.1",
+  "releasenote": "none",
+  "contributors": ["tondy"],
+  "dependencies": { }
+}

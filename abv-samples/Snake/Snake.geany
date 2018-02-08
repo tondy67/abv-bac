@@ -1,0 +1,66 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=true
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=Snake
+base_path=/home/tondy/dev/abv-samples/Snake
+description=
+file_patterns=*.hx,;*.css,;*.xml,;*.txt,;*.hxml;
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=4
+FILE_NAME_0=1352;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FSnake%2Fsrc%2FApp.hx;0;4
+FILE_NAME_1=3067;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv-samples%2FSnake%2Fsrc%2FGame.hx;0;4
+FILE_NAME_2=4314;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fui%2FUI.hx;0;4
+FILE_NAME_3=312;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Ffactory%2FComponent.hx;0;4
+FILE_NAME_4=140;Haxe;0;EUTF-8;1;1;0;%2Fhome%2Ftondy%2Fdev%2Fabv%2Fabv%2Fui%2Fcontrols%2FButton.hx;0;4
+
+[VTE]
+last_dir=/home/tondy/dev/hxtool
+
+[build-menu]
+HaxeFT_00_LB=Build Flash
+HaxeFT_00_CM=%p/abv build flash debug nocolor
+HaxeFT_00_WD=%p
+filetypes=Haxe;
+NF_00_LB=Build JS
+NF_00_CM=%p/abv build js debug nocolor
+NF_00_WD=%p
+HaxeFT_01_LB=Build NEKO
+HaxeFT_01_CM=%p/abv build neko debug nocolor
+HaxeFT_01_WD=%p
+HaxeFT_02_LB=Build JAVA
+HaxeFT_02_CM=%p/abv build java debug nocolor
+HaxeFT_02_WD=%p
+EX_00_LB=Run NEKO
+EX_00_CM=%p/abv run neko
+EX_00_WD=%p
+NF_01_LB=Build CPP
+NF_01_CM=%p/abv build cpp debug nocolor
+NF_01_WD=%p
+NF_02_LB=Build Android
+NF_02_CM=%p/abv build android debug nocolor
+NF_02_WD=%p
+NF_03_LB=Check Style
+NF_03_CM=haxelib run checkstyle -s %d/%f
+NF_03_WD=%p
+
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true

@@ -1,0 +1,13 @@
+Date: 2016-06-06 21:04:20
+-------------------------------------------
+Haxe: 3.3.0
+Neko: 2.1.0
+
+Haxelib:
+abv-tools: [dev:/home/tondy/dev/abv-tools]
+abv: [dev:/home/tondy/dev/abv]
+format: [3.2.1]
+hscript: [2.0.7]
+hxcpp: [3.3.49]
+hxjava: [3.2.0]
+hxparse: [git]

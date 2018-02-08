@@ -1,0 +1,13 @@
+{
+"#0" : "Valid json!",
+		"pack" : "com.tondy.app",
+		"name" : "CompareTargets",
+		"main" : "App",
+		"version" : "0.0.1",
+		"author" : "tondy",
+		"src" : ["src"],
+		"targets" : ["cpp","flash","neko","java","js"],
+		"width" : 768,
+		"height" : 480,
+		"ups" : 0
+}
